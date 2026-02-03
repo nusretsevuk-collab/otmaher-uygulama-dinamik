@@ -1,2 +1,3 @@
-# otmaher-uygulama-dinamik
+# index.html
+
 Otmaher Hesaplama
